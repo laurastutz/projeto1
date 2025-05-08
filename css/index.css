@@ -1,0 +1,13 @@
+.banner{
+    width: 100%;
+    height: 650px;
+    background:url(../img/PRAIA.jpeg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat:no-repeat ;
+}
+
+.margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
