@@ -8,6 +8,18 @@
 }
 
 .margin{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.padding{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.praia1{
+    width: 100%;
+}
+
+.praia1 img{
+    width: 100%;
 }
