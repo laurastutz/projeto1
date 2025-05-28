@@ -23,3 +23,24 @@ padding-bottom: 10px;
 .praia1 img{
     width: 100%;
 }
+
+.link-conf a {
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 7px;
+    border-radius: 3px;
+}
+
+.link-conf a:hover{
+    color: red;
+    background-color: white;
+}
+
+.esp-bottom{
+    border: 1px solid gray;
+    box-shadow: 2px 2px rgba(128, 128, 128, 0.44);
+    margin-bottom: 20px;
+
+}
+
