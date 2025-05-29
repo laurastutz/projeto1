@@ -1,0 +1,48 @@
+.banner{
+width: 1005px;
+height: 650px;
+background: url(img/imag.praia.01.jpg);
+background-size: 100;
+background-position-x:center ;
+background-repeat: no-repeat;
+}
+
+.margin{
+    margin-bottom: 0;
+}
+
+.paddin{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.praia{
+    width:100%;
+}
+.praia img{
+    width: 100%;
+}
+
+.link-cofig a{
+    font-weight: bold;
+    background-color: darkgreen;
+    color: white;
+    padding:7px;
+    border-radius:3px;
+}
+.link-cofig a:hover{
+    color: red;
+    background-color: lime;
+}
+ 
+.esp.botton{
+    margin-bottom: 20px;
+}
+@media screen and (min-width: 11250px) {
+  body {
+    background-color: lightgreen;
+  }
+  .banner{
+    height: 200px;
+  }
+}
+1
